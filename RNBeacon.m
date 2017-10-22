@@ -8,7 +8,7 @@
 
 #import <CoreLocation/CoreLocation.h>
 
-#import "RCTBridge.h"
+#import <React/RCTBridge.h>
 #import "RCTConvert.h"
 #import "RCTEventDispatcher.h"
 
